@@ -12,11 +12,5 @@ To generate a password, run the PasswordGenerator.java file in your favorite IDE
 Contributing
 Contributions to this repository are welcome. Feel free to suggest new features or improvements to the existing code. To contribute, please fork the repository, make your changes, and submit a pull request.
 
-License
-This code is released under the MIT license. See LICENSE.md for more details.
-
-Acknowledgments
-Thanks to the OpenAI team for providing the training data for ChatGPT, which was used to generate this README file.
-
 Contact
 If you have any questions or comments about the password generator, please feel free to contact me at [assiabk526@gmail.com].
